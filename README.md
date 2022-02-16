@@ -4,7 +4,7 @@
 - React Js
 - React & Redux linters
 ## Live Demo
-> ###### [LIVE DEMO LINK](https://aime-todo-app.netlify.app)
+> ###### [LIVE DEMO LINK](https://olivier-todo-app.netlify.app)
 
 ## Getting Started
 - clone the repository by running\
